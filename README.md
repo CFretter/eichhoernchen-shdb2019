@@ -10,6 +10,8 @@ As of now, squirrel navigation is only available in Görlitzer Park. More to com
 Video on youtube:
 [Video](https://youtu.be/8a5ySGzsXfw)
 
+App:
+[Web app](https://nutjob.glitch.me/)
 
 Find our [presentation](https://nutjob-docs.glitch.me). Ask us [issues](https://github.com/Liptoon/eichhoernchen-shdb2019/issues)
 
